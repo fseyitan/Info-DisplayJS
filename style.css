@@ -16,7 +16,7 @@ main {
 }
 
 .open {
-    max-height: 150px;
+    max-height: 180px;
     transition: 1s;
 }
 
